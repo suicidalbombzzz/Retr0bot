@@ -1,0 +1,1 @@
+worker: python Retr0bot_commands.py
